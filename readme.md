@@ -97,7 +97,14 @@
 </tr>
 </thead>
 </table>
-
+<br/>
+<h1 align="center">Connect with me</h1>
+<p align="center" dir="auto">
+  <a href="mailto:rogerch0505@gmail.com">
+    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg" style="max-width: 100%;">
+  </a>
+</p>
+</p>
 <br/>
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="25" height="25" />
   Thank you for visiting my page!
