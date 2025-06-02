@@ -30,15 +30,11 @@
   
 <p align=center>
 <!-- first row -->
-  <div align=center>
-  <!-- github stats -->
       <picture style="width: 100%; display: block;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akini072&theme=react" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" />
         <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" alt="akini072's github stats" />
       </picture>
-  <!-- streak stats -->
-  </div>
   <div align="left">
     <picture align="left">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akini072&theme=react&utcOffset=-3" />
