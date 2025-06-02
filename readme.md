@@ -27,14 +27,13 @@
     src="https://github-profile-trophy.vercel.app/?username=akini072&theme=tokyonight&no-frame=true&row=1&margin-w=30&no-bg=false" 
     alt="bc-expert" 
     width="100%" /></p>
-  
-<p align=center>
-<!-- first row -->
-      <picture style="width: 100%; display: block;">
+ <picture style="width: 100%; display: block;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akini072&theme=react" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" />
         <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" alt="akini072's github stats" />
-      </picture>
+      </picture> 
+<p align=center>
+<!-- first row -->
   <div align="left">
     <picture align="left">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akini072&theme=react&utcOffset=-3" />
