@@ -2,7 +2,9 @@
 <html>
 
 <body>
-  <h1 align="center">𝐒𝐫. 𝐖𝐞𝐛 & 𝐀𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h1>
+  <h1 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> 
+  𝐒𝐫. 𝐖𝐞𝐛 & 𝐀𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h1>
 
   <!-- Updated fancy visitor badge -->
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=akini072" width="90" />
@@ -30,16 +32,16 @@
 <!-- first row -->
   <div align=center>
   <!-- github stats -->
-      <picture>
+      <picture style="width: 100%; display: block;">
         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akini072&theme=react" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" />
-        <img src="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" alt="akini072's github stats" />
+        <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" alt="akini072's github stats" />
       </picture>
   <!-- streak stats -->
   </div>
   <div align="left">
     <picture align="left">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akini072&theme=react&utcOffset=10" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akini072&theme=react&utcOffset=-3" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=akini072&theme=default&border=61dafb" />
       <img align="right" width=395 src="https://streak-stats.demolab.com/?user=akini072&theme=default&border=61dafb" alt="akini072's streak stats" />
     </picture>
