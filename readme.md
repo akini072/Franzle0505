@@ -24,7 +24,7 @@
   </h1>
 <h1 align="center">𝐒𝐭𝐚𝐭𝐬</h1>
   <p align="center"><img 
-    src="https://github-profile-trophy.vercel.app/?username=akini072&theme=tokyonight&no-frame=true&row=1&margin-w=30&no-bg=false" 
+    src="https://github-profile-trophy.vercel.app/?username=akini072&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=30&no-bg=false" 
     alt="bc-expert" 
     width="100%" /></p>
  <picture style="width: 100%; display: block;">
@@ -32,7 +32,7 @@
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" />
         <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" alt="akini072's github stats" />
       </picture> 
-      <div align="left">
+  <div align="left">
     <picture align="left">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akini072&theme=react&utcOffset=-3" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=akini072&theme=default&border=61dafb" />
@@ -45,6 +45,7 @@
       </picture>
       
   </div>
+  <br /><br /><br />
 <p align=center>
 <!-- first row -->
   
