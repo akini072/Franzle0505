@@ -37,7 +37,7 @@
       </picture>
   <!-- streak stats -->
   </div>
-  <div>
+  <div align="left">
     <picture align="left">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akini072&theme=react&utcOffset=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=akini072&theme=default&border=61dafb" />
