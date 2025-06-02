@@ -32,9 +32,7 @@
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" />
         <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" alt="akini072's github stats" />
       </picture> 
-<p align=center>
-<!-- first row -->
-  <div align="left">
+      <div align="left">
     <picture align="left">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akini072&theme=react&utcOffset=-3" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=akini072&theme=default&border=61dafb" />
@@ -47,6 +45,9 @@
       </picture>
       
   </div>
+<p align=center>
+<!-- first row -->
+  
   <!-- spaces -->
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
   <!-- contribution graph -->
