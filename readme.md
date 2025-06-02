@@ -2,13 +2,15 @@
 <html>
 
 <body>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
   <h1 align="center">𝐒𝐫. 𝐖𝐞𝐛 & 𝐀𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h1>
 
   <!-- Updated fancy visitor badge -->
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=akini072" width="90" />
   <p align="center">
     <a href="https://github.com/akini072"><img
-        src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack-Developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+        src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack-Developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Righteous&center=true&width=650&height=120&color=00cc99&vCenter=true&size=45%22"></a>
   </p>
 
   <h1 align="center">
@@ -31,13 +33,18 @@
   <div align=center>
   <!-- github stats -->
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akini072&theme=react" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" />
         <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=akini072&show_icons=true&theme=default&border_color=61dafb" alt="akini072's github stats" />
       </picture>
   <!-- streak stats -->
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=akini072&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akini072&theme=react" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=akini072&theme=default&border=61dafb" />
+        <img align="right" width=390 src="https://streak-stats.demolab.com/?user=akini072&theme=default&border=61dafb" alt="akini072's streak stats" />
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akini072&theme=react&utcOffset=10" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=akini072&theme=default&border=61dafb" />
         <img align="right" width=390 src="https://streak-stats.demolab.com/?user=akini072&theme=default&border=61dafb" alt="akini072's streak stats" />
       </picture>
